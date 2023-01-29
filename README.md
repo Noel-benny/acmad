@@ -1,3 +1,10 @@
+6. Catastrophic disasters in Africa - (Environment)
+Natural disasters such as drought and flooding often make survival difficult for people living in central Africa and near the equator. These communities are often forced to undergo rehabilitation. Using AI and studying past records of casualties and assistance provided during these disasters can help gain a deeper understanding of the situation. By analyzing this data, it is possible to develop solutions to minimize the risk and damage caused by these types of disasters in the future.
+
+Datasets for reference:
+Dataset	Link
+The African Centre for Meteorological Applications for Development (ACMAD) provides a wide range of data on weather and climate, including information on extreme events such as droughts and floods.
+
 Key Features of your Solution:
 
 Data Processing: The data from the African Centre for Meteorological Applications for Development (ACMAD) was preprocessed to handle missing values and transform variables if necessary.
